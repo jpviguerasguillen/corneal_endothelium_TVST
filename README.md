@@ -3,7 +3,7 @@ Deep learning method presented in the Translational Vision Science & Technology 
 
 > Vigueras-Guillén et al. (2020) Deep learning for assessing the corneal endothelium from specular microscopy images up to one year after ultrathin-DSAEK surgery. ___Translational Vision Science & Technology (TVST)___. (In submission)
 
-A simple notebook (TVST_paper_testing.ipynb) was created to test a few images. The notebook was created to be launch in Google Colaboratory.
+A simple notebook (TVST_paper_testing.ipynb) was created to test a few images. The notebook was created to be launched in Google Colaboratory.
 
 Go to the following link to retrieve the weights of the CNN models:
 https://drive.google.com/drive/folders/17xVFy7UfnHH66PfN5zlxv5swHwc-Ecdx

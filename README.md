@@ -1,5 +1,6 @@
 # Segmenting the Corneal Endothelium: Methodology presented in the Translational Vision Science & Technology (TVST) journal.
 #### by Juan P. Vigueras-Guillén et al. (https://www.researchgate.net/profile/Juan-Vigueras-Guillen) 
+#### Paper can be downloaded from: https://tvst.arvojournals.org/article.aspx?articleid=2770688
 
 A deep learning method presented in the Translational Vision Science & Technology (TVST) journal to segment cells from corneal endothelium images obtained with specular microscopy and subsequently infer the corneal parameters (cell density, coefficient of variation, and hexagonality).
 
